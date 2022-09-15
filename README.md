@@ -8,5 +8,7 @@ Requests: https://pypi.org/project/requests
 
 ### SurrealDB
 Install SurrealDB: https://surrealdb.com
+
 SurrealDB Docu: https://surrealdb.com/docs
+
 Official Python Library Repo: https://github.com/surrealdb/surrealdb.py
